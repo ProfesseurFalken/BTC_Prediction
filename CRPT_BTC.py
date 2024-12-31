@@ -1,3 +1,25 @@
+"""
+Crypto-Analysis-Tool
+====================
+
+Author: Emmanuel Jean-Louis Wojcik
+Date: 2024-12-31
+Version: 1.0
+Description: 
+    This script analyzes Bitcoin price data, calculates technical indicators, 
+    generates trading signals, and predicts future prices.
+
+Dependencies:
+    - pandas
+    - numpy
+    - yfinance
+    - matplotlib
+    - pmdarima
+    - sklearn
+
+License: MIT
+"""
+
 # Import necessary libraries for data manipulation, visualization, and time series analysis
 import pandas as pd
 import numpy as np
